@@ -4,5 +4,5 @@ def main():
     num1 = int(input("Enter first number: "))
     num2 = int(input("Enter the second number: "))
     total = num1 + num2
-    print("The total is " + str(total) + ".")
+    print(f"The total is {total}.")
 main()
