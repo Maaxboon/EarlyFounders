@@ -9,7 +9,7 @@ NUM_SIDES = 6
 
 def main():
     # setting seed is useful for debugging
-    # random seed(1)
+    # random seed(1): when uncommented ensures the same output is generated each time
     die1 = random.randint(1, NUM_SIDES)
     die2 = random.randint(1, NUM_SIDES)
     total = die1 + die2
