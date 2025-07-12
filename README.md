@@ -1,5 +1,1 @@
-# Python 3: The Comprehensive Guide
-## Johannes Ernesti, Peter Kaiser
-### Topics Covered so far:
-1. Introduction
-2. The Python Programming Language
+Early Founders Python Bootcamp in partnership with the African Leadership University
